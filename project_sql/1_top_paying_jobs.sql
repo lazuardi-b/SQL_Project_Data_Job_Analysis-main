@@ -25,11 +25,3 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 10;
-
-SELECT *
-FROM skills_dim
-LIMIT 5;
-
-SELECT *
-FROM skills_job_dim
-LIMIT 5;
