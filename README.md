@@ -81,7 +81,7 @@ LIMIT 10;
 - High salaries are offered across different types of companies, suggesting strong demand for data analysts across multiple industries.
 
 ![Top Paying Roles](assets/1_top_paying_roles.png)
-*Figure 1: Bar graph showing the top 10 highest-paying data analyst roles.*
+*Bar graph showing the top 10 highest-paying data analyst roles.*
 
 ### 2. Skills for Top Paying Jobs
 
