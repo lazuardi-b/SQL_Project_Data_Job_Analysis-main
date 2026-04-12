@@ -80,7 +80,7 @@ LIMIT 10;
 - Top-paying data analyst roles show a wide salary range, with some positions reaching up to $650K, indicating significant variation based on role scope and seniority.
 - High salaries are offered across different types of companies, suggesting strong demand for data analysts across multiple industries.
 
-![Top Paying Roles](assets/1_top_paying_roles.png)
+![Top Paying Roles](/assets/1_top_paying_roles.png.png)
 *Bar graph showing the top 10 highest-paying data analyst roles.*
 
 ### 2. Skills for Top Paying Jobs
@@ -124,7 +124,7 @@ ORDER BY
 - **SQL is consistently required** across top-paying roles, reinforcing its importance as a core skill for data analysts.
 - **Python and Tableau frequently appear** alongside SQL, indicating that higher-paying roles often require both programming and data visualization capabilities.
 
-![Top Paying Skills](assets/2_top_paying_roles_skills.png)
+![Top Paying Skills](/assets/2_top_paying_roles_skills.png.png)
 *Bar Graph showing the most common skills required for top-paying data analyst roles*
 
 ### 3. In-Demand Skills for Data Analysts
